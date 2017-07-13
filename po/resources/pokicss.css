@@ -1,0 +1,28 @@
+body{
+	font-family: 'Lemonada', cursive;
+	color: darkblue;
+	margin: 30px;
+	background:url("wallpapaer.jpg") no-repeat left center fixed;;
+	background-size: cover;
+}
+
+header{
+	text-align: center;
+	font-weight: bold;
+}
+
+nav{
+	margin: 20px;
+}
+
+nav ul{
+	display: inline;
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline;
+	margin: 20px;
+}
+
+
